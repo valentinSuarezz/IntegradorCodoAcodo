@@ -1,0 +1,12 @@
+.text {
+    font-size: .9rem;
+    line-height: 1.4rem;
+}
+
+#buttonNegocios{
+    background-color:rgb(87, 86, 86);
+}
+
+.carousel-item img {
+    filter: brightness(50%);
+}
